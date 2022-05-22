@@ -1,0 +1,32 @@
+* {
+    margin: 5px;
+}
+
+#search {
+    color: aqua;
+    border-radius: 20px;
+    height: 35px;
+    width: 170px;
+    font-size: large;
+    font-style: bold;
+    text-shadow: 2px 2px 5px red;
+}
+
+#plus  {
+    background-color:aqua;
+    color: white;
+    border-radius: 40px;
+    height: 40px;
+    width: 40px;
+    font-size: 30px;
+    font-style: bold;
+}
+
+#creat {
+    box-shadow: 3px 3px 1px rgb(0, 0, 0);
+    height: 40px;
+    width: 150px;
+    font-size: large;
+    font-style: bold;
+}
+
